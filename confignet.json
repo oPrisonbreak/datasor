@@ -1,0 +1,27 @@
+{
+  "Ads": [
+    {
+      "idApp": "ca-app-pub-3940256099942544~3347511713",
+      "idPopup": "ca-app-pub-3940256099942544/1033173712",
+      "idVideo": "ca-app-pub-3940256099942544/5224354917",
+      "numberMaxShowAdDetail": 5,
+      "numberMaxClick": 2,
+      "adType": "admob"
+    },
+    {
+      "idApp": "3082896",
+      "idPopup": "Interstitial_Android",
+      "idVideo": "Rewarded_Android",
+      "numberMaxShowAdDetail": 5,
+      "numberMaxClick": 5,
+      "adType": "unity"
+    }
+  ],
+  "enableAds": true,
+   "configshow": {
+    "showType": "queue",
+     "mains":["admob","unity","admob"]
+  }
+  
+  
+}
