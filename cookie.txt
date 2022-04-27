@@ -17,7 +17,7 @@
 },
 {
     "name": "_biz_nA",
-    "value": "139",
+    "value": "144",
     "domain": ".sensortower.com",
     "hostOnly": false,
     "path": "/",
@@ -27,7 +27,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506854,
+    "expirationDate": 1682594015,
     "storeId": "firefox-default",
     "id": 2
 },
@@ -43,13 +43,13 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506854,
+    "expirationDate": 1682594016,
     "storeId": "firefox-default",
     "id": 3
 },
 {
     "name": "_biz_sid",
-    "value": "71ab71",
+    "value": "6af322",
     "domain": ".sensortower.com",
     "hostOnly": false,
     "path": "/",
@@ -59,7 +59,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1650972654,
+    "expirationDate": 1651059815,
     "storeId": "firefox-default",
     "id": 4
 },
@@ -75,7 +75,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506854,
+    "expirationDate": 1682594015,
     "storeId": "firefox-default",
     "id": 5
 },
@@ -91,7 +91,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1714042854,
+    "expirationDate": 1714130016,
     "storeId": "firefox-default",
     "id": 6
 },
@@ -107,7 +107,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1650970912,
+    "expirationDate": 1651058070,
     "storeId": "firefox-default",
     "id": 7
 },
@@ -123,7 +123,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1650970870,
+    "expirationDate": 1651058032,
     "storeId": "firefox-default",
     "id": 8
 },
@@ -139,7 +139,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1651057254,
+    "expirationDate": 1651144416,
     "storeId": "firefox-default",
     "id": 9
 },
@@ -155,13 +155,13 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1714042853,
+    "expirationDate": 1714130015,
     "storeId": "firefox-default",
     "id": 10
 },
 {
     "name": "amplitude_id_6edb64137a31fa337b6f553dbccf2d8bsensortower.com",
-    "value": "eyJkZXZpY2VJZCI6IjYyNGZhZGJjLWJhZTgtNDc1My1iMjVkLTE5ZDg5ZWExNDc3NVIiLCJ1c2VySWQiOiJzZW5zb3IuZGlldUB0cWNnbG9iYWwuY29tIiwib3B0T3V0IjpmYWxzZSwic2Vzc2lvbklkIjoxNjUwOTcwODQ4MjkyLCJsYXN0RXZlbnRUaW1lIjoxNjUwOTcwODUzNzQzLCJldmVudElkIjoxMDY1LCJpZGVudGlmeUlkIjoxOCwic2VxdWVuY2VOdW1iZXIiOjEwODN9",
+    "value": "eyJkZXZpY2VJZCI6IjYyNGZhZGJjLWJhZTgtNDc1My1iMjVkLTE5ZDg5ZWExNDc3NVIiLCJ1c2VySWQiOiJzZW5zb3IuZGlldUB0cWNnbG9iYWwuY29tIiwib3B0T3V0IjpmYWxzZSwic2Vzc2lvbklkIjoxNjUxMDU4MDA3NjMwLCJsYXN0RXZlbnRUaW1lIjoxNjUxMDU4MDE1NjU4LCJldmVudElkIjoxMTA2LCJpZGVudGlmeUlkIjoxOCwic2VxdWVuY2VOdW1iZXIiOjExMjR9",
     "domain": ".sensortower.com",
     "hostOnly": false,
     "path": "/",
@@ -171,7 +171,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1966330853,
+    "expirationDate": 1966418015,
     "storeId": "firefox-default",
     "id": 11
 },
@@ -203,13 +203,13 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506852,
+    "expirationDate": 1682594014,
     "storeId": "firefox-default",
     "id": 13
 },
 {
     "name": "OptanonAlertBoxClosed",
-    "value": "2022-04-26T11:00:54.043Z",
+    "value": "2022-04-27T11:13:35.952Z",
     "domain": ".sensortower.com",
     "hostOnly": false,
     "path": "/",
@@ -219,13 +219,13 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506854,
+    "expirationDate": 1682594015,
     "storeId": "firefox-default",
     "id": 14
 },
 {
     "name": "OptanonConsent",
-    "value": "isIABGlobal=false&datestamp=Tue+Apr+26+2022+18%3A00%3A54+GMT%2B0700+(Indochina+Time)&version=6.16.0&hosts=&landingPath=NotLandingPage&groups=C0004%3A1%2CC0003%3A1%2CC0002%3A1%2CC0001%3A1&AwaitingReconsent=false&geolocation=VN%3BHN",
+    "value": "isIABGlobal=false&datestamp=Wed+Apr+27+2022+18%3A13%3A35+GMT%2B0700+(Indochina+Time)&version=6.16.0&hosts=&landingPath=NotLandingPage&groups=C0004%3A1%2CC0003%3A1%2CC0002%3A1%2CC0001%3A1&AwaitingReconsent=false&geolocation=VN%3BHN",
     "domain": ".sensortower.com",
     "hostOnly": false,
     "path": "/",
@@ -235,13 +235,13 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1682506854,
+    "expirationDate": 1682594015,
     "storeId": "firefox-default",
     "id": 15
 },
 {
     "name": "session",
-    "value": "1b1e28a866b64b18ea0783729c776e09",
+    "value": "cc59805623f852fa1ea2b0fc3b0e3de5",
     "domain": "app.sensortower.com",
     "hostOnly": true,
     "path": "/",
@@ -251,7 +251,7 @@
     "session": false,
     "firstPartyDomain": "",
     "partitionKey": null,
-    "expirationDate": 1653562854,
+    "expirationDate": 1653650015,
     "storeId": "firefox-default",
     "id": 16
 },
